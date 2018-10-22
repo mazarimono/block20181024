@@ -29,9 +29,7 @@ https://cryptozombies.io/en/course/
       
 * Loom networkというethreumのlayer2でDPOSのサイドチェーンを作っているプロジェクトが運営。EOS on Ethreumとか言っているｗ　     
 * めちゃスケールできるゲームとかdappを作れるよー。　　　　 
-* SolidityはJavascriptに似ているらしい（あんまり書いたことないので・・・）    
-* こんな感じで作れるのかぁとか思うには良い。     
-* いろいろな知識が仕入れられる。     
+* SolidityはJavascriptに似ているらしい（あんまり書いたことないので・・・）     
 
 ---
 ### どんな知識？？(1)
@@ -40,6 +38,8 @@ https://cryptozombies.io/en/course/
 * 変数や関数はすべてコントラクトに属する。     
       
 +++?code=hello_solidity.sol    
+
+--- 
 
 ### どんな知識？？(2)
 * 関数はデフォルトでpublic。誰でも呼び出せる。    
@@ -71,8 +71,9 @@ https://cryptozombies.io/en/course/
 * 安全な乱数発生に関する議論    
 https://ethereum.stackexchange.com/questions/191/how-can-i-securely-generate-a-random-number-in-my-smart-contract      
 +++?code=random.sol
+* 乱数の発生のさせ方
 +++?code=event.sol
-
+* zombiesにpushされたらnewZomieというイベントが発生する。    
 ---
 
 ### どんな知識？？(5)
@@ -83,11 +84,11 @@ https://ethereum.stackexchange.com/questions/191/how-can-i-securely-generate-a-r
 #### msg.sender
 * 全ての関数で利用できるグローバル変数の一つ。     
 参考：Units（お金の単位）とグローバル変数  https://solidity.readthedocs.io/en/v0.4.25/units-and-global-variables.html      
-* これを利用すると、関数を呼び出したユーザーのaddressを参照できる。      
-* solidityは外部の呼び出し元から関数を実行するとの決まりがある。関数を呼び出すまでコントラクトはブロックチェーンに何もしない。     
 
 +++?code=mappings.sol
 +++?code=msgsender.sol
+* これを利用すると、関数を呼び出したユーザーのaddressを参照できる。      
+* solidityは外部の呼び出し元から関数を実行するとの決まりがある。関数を呼び出すまでコントラクトはブロックチェーンに何もしない。     
 
 ---
 ### どんな知識？？(6)
@@ -108,7 +109,7 @@ https://ethereum.stackexchange.com/questions/191/how-can-i-securely-generate-a-r
 #### 別コントラクトとのやり取り
 * interfaceを宣言すると、別コントラクトの関数が読み込める。   
      
-+++?code=interface.sol　　　　
++++?code=interface.sol
 　　　　
 ---
 ### どんな知識？？（８）
