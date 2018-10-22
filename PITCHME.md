@@ -23,11 +23,11 @@ https://developers.eos.io/
 
 ### CryptoZombie
 #### どんなものか？    
-イーサリウムでゾンビゲームを作りながらSolidityを学ぶ。     
-全部コードを入力するわけでなく、空いてるところに入れる感じ。     
+ゾンビゲームを作りながらSolidityを学ぶ。     
+全部コードを入力するわけでない。     
 https://cryptozombies.io/en/course/     
       
-* Loom networkというethreumのlayer2でDPOSのサイドチェーンを作っているプロジェクトが運営。EOSonEthreumとか言っているｗ　     
+* Loom networkというethreumのlayer2でDPOSのサイドチェーンを作っているプロジェクトが運営。EOS on Ethreumとか言っているｗ　     
 * めちゃスケールできるゲームとかdappを作れるよー。　　　　 
 * SolidityはJavascriptに似ているらしい（あんまり書いたことないので・・・）    
 * こんな感じで作れるのかぁとか思うには良い。     
@@ -244,5 +244,6 @@ https://metamask.io/
 https://solidity.readthedocs.io/en/v0.4.25/common-patterns.html    
 ### openzeppelin 
 https://openzeppelin.org/    
-
+### eth gas station
+https://ethgasstation.info/index.php    
 ---
