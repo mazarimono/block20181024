@@ -117,18 +117,23 @@ https://ethereum.stackexchange.com/questions/191/how-can-i-securely-generate-a-r
 * contractをethereum上にデプロイすると編集も更新もできなくなる。    
 * 修正する方法はなく、別のスマートコントラクトを使うようにユーザーに伝えないといけない。      
 * 外部のcontractを使った場合、それが影響した地留守の出、その影響を受けないように作る。    
+---
 
+### どんな知識？？（９）
 #### ownableコントラクト
 * Ownable / 特別な権限を持つオーナーのみアドレスの更新ができるライブラリ。OpenZepplinのライブラリ。     
 * onlyOwner / 修飾子。
 https://github.com/OpenZeppelin/openzeppelin-solidity/blob/master/contracts/ownership/Ownable.sol
 ---
 
-### どんな知識？？（９）
+### どんな知識？？（10）
 #### OpenZepplin / コミュニティの検証を経た安全なスマートコントラクト。Crowdsalesに関しても安全なコードが記載されている。        
 https://openzeppelin.org/     
 https://openzeppelin.org/api/docs/learn-about-crowdsales.html     
-<br>
+
+---
+
+### どんな知識？？（11）
 #### ガス
 * ethereumではファンクションを実行するたびに、ガスと呼ばれる通貨を支払うことになっています。    
 * 実行に必要なガス量はそれを実行するためにどのくらいの計算資源が必要かに左右される。     
@@ -137,7 +142,7 @@ https://openzeppelin.org/api/docs/learn-about-crowdsales.html
 gas tracker: https://etherscan.io/gastracker     
      
 ---
-### どんな知識？？（10）
+### どんな知識？？（12）
 #### modifier        
 * 修飾子を作る。    
 
@@ -151,7 +156,7 @@ gas tracker: https://etherscan.io/gastracker
 * 関数にpayable修飾子がなく、Etherをweb3.jsから送ろうとする場合、その関数はトランザクションを拒否する。     
       
 ---
-### どんな知識？？（11）
+### どんな知識？？（13）
 #### 引き出し関数 transfer
 * コントラクトに送られたEtherを引き出す。     
 

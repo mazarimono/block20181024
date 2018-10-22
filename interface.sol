@@ -6,7 +6,7 @@ contract LuckyNumber {
     numbers[msg.sender] = _num;
     }
 
-    function getNum(address _myAddress) public view returns (uint{
+    function getNum(address _myAddress) public view returns (uint) {
     return numbers[_myAddress]
     })
 }
