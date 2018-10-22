@@ -9,11 +9,12 @@
 ### 本日のお題
 1 CryptoZombie   
 
-2 EOS
-
+2 EOS     
+      
+3 TRUST    
 ---   
 ### 参考ページ
-* CryptoZombie
+* CryptoZombie    
 https://cryptozombies.io/     
 * Solidity   
 https://solidity.readthedocs.io/en/v0.4.25/index.html     
@@ -21,8 +22,7 @@ https://solidity.readthedocs.io/en/v0.4.25/index.html
 https://developers.eos.io/      
 ---
 
-### CryptoZombie
-#### どんなものか？    
+### CryptoZombieどんなものか？    
 ゾンビゲームを作りながらSolidityを学ぶ。     
 全部コードを入力するわけでない。     
 https://cryptozombies.io/en/course/     
