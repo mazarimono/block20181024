@@ -1,7 +1,7 @@
 
 ### blockchain Kyoto#08
 
-#### CryptoZombies, EOS
+#### CryptoZombies, EOS, TRUST
 
 ##### Hideyuki Ogawa 
 ###### Chomoku CEO
@@ -293,9 +293,9 @@ https://qiita.com/OMOIKANESAN/items/1ffc06ef6283befc4355
 https://developers.eos.io/eosio-home/docs/how-it-all-fits-together
 ---
 
-<b>cleos</b> / ブロックチェーンにつながれ、ウォレットも運用できるコマンドラインツール
+<b>cleos</b> / ブロックチェーンにつながれ、ウォレットも運用できるコマンドラインツール      
 <b>keosd</b> / EOSIOのカギをウォレットに安全に置いておく。    
-<b>nodeos</b> / node     
+<b>nodeos</b> / nodeを動かす     
     
 ---
 ### 動かしてみた
@@ -321,19 +321,22 @@ We've stopped trusting institutions and started trusting strangers.
 https://www.ted.com/talks/rachel_botsman_we_ve_stopped_trusting_institutions_and_started_trusting_strangers#t-83765     
 
 ---
-## 内容
+#### 内容
 * 信頼の定義
 * 19世紀くらいまで信頼はlocalで築かれるものだった。    
 * その後、機関、巨大企業が仲介した。     
 * 人びとが都市部に集まった。そのため、権威がそれをになった。契約書、規制、保険など。    
 * 最近は大企業などの信頼を裏切る事件が多く起こっている。    
 * フォルクスワーゲンのガス不正、カトリックの性的虐待、銀行による金融恐慌、金持ちのパナマペーパー。     
+
+---
+#### 内容2
 * 信頼を裏切っても誠実に謝罪することがない。    
 * 機関への信頼はデジタル時代には向かない。      
 * 信頼を作る新たな方法の登場。     
 
 ---
-## 以前、最近    
+#### 以前、最近    
 
 ![画像](ted.png)
 
