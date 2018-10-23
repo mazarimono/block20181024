@@ -311,7 +311,6 @@ https://developers.eos.io/eosio-home/docs/token-contract
 ---
 
 ## 3. TRUST
-
 * 新聞を読んでたら「TRUST」って本が出ているということを知った(先週土曜日)。     
 https://www.nikkei.com/article/DGXKZO36688620Z11C18A0MY5000/　　　　
 * レビューシステムやブロックチェーンによって「分散された信頼」が生まれて、世の中が再構築されている様子を分析し、信頼の本質に迫っている本らしい。    
