@@ -3,7 +3,7 @@
 
 #### CryptoZombies, EOS, TRUST
 
-##### Chomoku CEO Hideyuki Ogawa 
+##### Chomoku CEO / Hideyuki Ogawa 
 
 ---    
 ### 本日のお題
@@ -340,6 +340,6 @@ https://www.ted.com/talks/rachel_botsman_we_ve_stopped_trusting_institutions_and
 * 技術によっておこる「信頼の変革」だ！
 ---
 
-![pic](ted.png)       
+![pic](ted.PNG)       
 
 ---
