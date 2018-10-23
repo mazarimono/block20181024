@@ -337,6 +337,6 @@ https://www.ted.com/talks/rachel_botsman_we_ve_stopped_trusting_institutions_and
 
 ---
 
-![画像](ted.png)
+![pic](ted.png)
 
 ---
