@@ -294,7 +294,7 @@ https://developers.eos.io/eosio-home/docs/how-it-all-fits-together
 ---
 
 <b>cleos</b> / ブロックチェーンにつながれ、ウォレットも運用できるコマンドラインツール      
-<b>keosd</b> / EOSIOのカギをウォレットに安全に置いておく。    
+<b>keosd</b> / EOSIOのカギをウォレットに安全に置く。    
 <b>nodeos</b> / nodeを動かす     
     
 ---
@@ -336,7 +336,6 @@ https://www.ted.com/talks/rachel_botsman_we_ve_stopped_trusting_institutions_and
 * 信頼を作る新たな方法の登場。     
 
 ---
-#### 以前、最近    
 
 ![画像](ted.png)
 
