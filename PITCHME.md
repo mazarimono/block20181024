@@ -3,8 +3,8 @@
 
 #### CryptoZombies, EOS, TRUST
 
-##### Hideyuki Ogawa 
-###### Chomoku CEO
+##### Chomoku CEO Hideyuki Ogawa 
+
 ---    
 ### 本日のお題
 1 CryptoZombie   
